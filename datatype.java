@@ -9,7 +9,10 @@ public class datatypes{
   public static viod main(String[] args){
       //datatypes
       int i=2;      //4bytes
-      double i=1;   //8bytes  and long
-      float i=1.2;   //4bytes
+      double g=1;   //8bytes  and long
+      float f=1.2;   //4bytes
       char a="A";    //2bytes
-      //bool t || f;  //1bit    
+      //bool t || f;  //1bit  
+    System.out.println(i);
+  }
+}
